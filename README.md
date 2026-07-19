@@ -41,7 +41,7 @@ Results-driven Junior Mechatronics Engineer with hands-on research experience in
 * **Software & Programming:** C/C++, Python, Rust, ROS, GNU/Linux, MATLAB, Git, JavaScript/HTML, Excel VBA, Local AI Deployment (Ollama).
 * **Hardware & Mechanical:** SolidWorks, LIDAR Telemetry, Digital Multimeters (DMM), Oscilloscopes, Manual Machining, MIG/MAG Welding.
 * **Systems & Methodologies:** Simultaneous Localization and Mapping (SLAM), Design for Manufacturability (DFM), Material Requirements Planning (MRP), Enterprise Resource Planning (ERP), Sensor Integration.
-* **Languages:** Turkish, English.
+* **Languages:** Turkish, English (YDS 2025 : 80).
 
 ## CERTIFICATES & LICENSES
 * **Autonomous Driving Technologies Basic Training** | Republic Of Türkiye Ministry of Industry and Technology | March 2026 | Credential ID: 18404127337117
